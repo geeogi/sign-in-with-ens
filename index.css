@@ -1,14 +1,20 @@
-body {
-}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
+body {
+	font-family: "Open Sans"
+}
 #container {
 	max-width: 500px;
 	margin:auto;
 	margin-top:100px;
 }
-
 * {
 	margin-top:10px;
 	word-wrap: break-word;
-
+}
+#user {
+height: 40px;
+}
+#sign-in {
+	height: 40px
 }
