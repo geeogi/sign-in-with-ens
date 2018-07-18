@@ -14,6 +14,7 @@
   "dependencies": {
     "browserify": "^16.2.0",
     "eth-sig-util": "^1.4.2",
+    "ethereum-ens": "^0.7.4",
     "ethereumjs-util": "^5.1.5",
     "ethjs": "^0.3.6"
   },
